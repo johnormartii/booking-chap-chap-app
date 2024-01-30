@@ -1,0 +1,25 @@
+header {
+    margin: 0%;
+    background-color:rgba(79, 246, 176, 0.799);
+    border: 0px;
+    padding: 2px;
+    text-align: center;
+    align-items: center;
+    font-size: xx-large;
+    background-image: url(1.jpg);
+}
+body{
+    background-image: url(4.jpg);
+}
+h1{
+    color: blue;
+    text-size-adjust:20px;
+    font-weight: 600;
+    font-style: initial;
+    flex-wrap: wrap;
+}
+H2{
+    color: rgb(255, 0, 174);
+    text-align: justify;
+    font-style: italic;
+}
